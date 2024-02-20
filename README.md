@@ -1,6 +1,6 @@
 
 
-![header](https://capsule-render.vercel.app/api?type=Venom&color=dark&height=300&section=header&text=Hello%20I'm%20giwon&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=Venom&color=radical&height=300&section=header&text=Hello%20I'm%20giwon&fontSize=90)
 
 
 
