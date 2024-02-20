@@ -1,6 +1,6 @@
 
 
-![header](https://capsule-render.vercel.app/api?text=Hello I'm giwon&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?text=Hello%20I'm%20giwon&animation=fadeIn)
 
 
 <!--
