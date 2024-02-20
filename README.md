@@ -2,7 +2,8 @@
 
 ![header](https://capsule-render.vercel.app/api?type=Venom&color=auto&height=200&section=header&text=Hello%20I'm%20giwon&fontSize=70)
 
-### abuot me
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=giwon0213&langs_count=8)](https://github.com/giwon0213/github-readme-stats)
+
 
 
 <!--
