@@ -1,6 +1,7 @@
 
 
-![header](https://capsule-render.vercel.app/api?text=Hello%20I'm%20giwon&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=Venom&color=auto&height=300&section=header&text=capsule%20render&fontSize=90)
+
 
 
 <!--
