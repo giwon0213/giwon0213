@@ -2,7 +2,7 @@
 
 ![header](https://capsule-render.vercel.app/api?type=Venom&color=auto&height=200&section=header&text=Hello%20I'm%20giwon&fontSize=70)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=깃허브아이디&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=giwon0213&show_icons=true&theme=radical)
 
 
 
