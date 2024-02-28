@@ -38,10 +38,12 @@
   <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
   
   <br>
+
+  ![image](https://github-readme-stats.vercel.app/api/top-langs/?username=giwon0213&layout=compact&langs_count=8&hide_border=true&title_color=000000&icon_color=000000&text_color=000000&bg_color=ffffff)
+
 </div>
 
 
-![image](https://github-readme-stats.vercel.app/api/top-langs/?username=giwon0213&layout=compact&langs_count=8&hide_border=true&title_color=000000&icon_color=000000&text_color=000000&bg_color=ffffff)
 
 
 
