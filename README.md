@@ -39,7 +39,6 @@
   
   <br>
 
-  <div align=center><h1>📚 STACKS</h1></div>
 
   ![image](https://github-readme-stats.vercel.app/api/top-langs/?username=giwon0213&layout=compact&langs_count=8&hide_border=true&title_color=000000&icon_color=000000&text_color=000000&bg_color=ffffff)
 
